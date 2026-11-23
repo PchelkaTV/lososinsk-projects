@@ -1,0 +1,65 @@
+# Фотографии проектов Лососинска
+
+Размещайте изображения в этой папке с указанными ниже именами. Если изображения нет, сайт не показывает пустой блок.
+
+- LS-001 — Обустройство второго этажа городской больницы: `images/bolnitsa-2-etazh.jpg`
+- LS-002 — Обустройство третьего этажа городской больницы: `images/bolnitsa-3-etazh.jpg`
+- LS-003 — Внутреннее обустройство здания городского суда: `images/gorodskoy-sud.jpg`
+- LS-004 — Обустройство фармакологического предприятия: `images/farm-predpriyatie.jpg`
+- LS-005 — Внутреннее обустройство парламента Лососинска: `images/parlament.jpg`
+- LS-006 — Внутренняя отделка железнодорожного вокзала: `images/vokzal-interier.jpg`
+- LS-007 — Международные платформы железнодорожного вокзала: `images/vokzal-platformy.jpg`
+- LS-008 — Перепланировка гимназии им. Даниила Терещенко: `images/gimnaziya-tereshchenko.jpg`
+- LS-009 — Внутреннее обустройство пивоварни «Лососинск № 1»: `images/pivovarnya-1.jpg`
+- LS-010 — Строительство макаронной фабрики: `images/makaronnaya-fabrika.jpg`
+- LS-011 — Строительство мебельной фабрики: `images/mebelnaya-fabrika.jpg`
+- LS-012 — Строительство фарфоровой фабрики: `images/farforovaya-fabrika.jpg`
+- LS-013 — Строительство гончарного цеха: `images/goncharnyy-tsekh.jpg`
+- LS-014 — Строительство пятиэтажного многоквартирного жилого дома: `images/zhiloy-dom-5-etazhey.jpg`
+- LS-015 — Формирование выставочной площади EXPO: `images/expo-ploshchad.jpg`
+- LS-016 — Въезд и дорожная сеть нового студенческого городка: `images/studgorodok-dorogi.jpg`
+- LS-017 — Строительство студенческого общежития: `images/studgorodok-obshchezhitie.jpg`
+- LS-018 — Строительство учебного корпуса Государственного университета Лососинска: `images/universitet-uchebnyy-korpus.jpg`
+- LS-019 — Строительство практического корпуса Государственного университета Лососинска: `images/universitet-prakticheskiy-korpus.jpg`
+- LS-020 — Разработка и строительство инфраструктуры студенческого городка: `images/studgorodok-infrastruktura.jpg`
+- LS-021 — Перепланировка исторической тюрьмы Лососинска: `images/istoricheskaya-tyurma.jpg`
+- LS-022 — Строительство исторического здания — участок № 1: `images/istoricheskoe-zdanie-24x16.jpg`
+- LS-023 — Строительство исторического здания — участок № 2: `images/istoricheskoe-zdanie-19x16.jpg`
+- LS-024 — Строительство исторического здания — участок № 3: `images/istoricheskoe-zdanie-22x16.jpg`
+- LS-025 — Новое назначение здания старой Государственной библиотеки: `images/staraya-gosbiblioteka.jpg`
+- LS-026 — Обустройство пищевого завода Лососинска: `images/pishchevoy-zavod.jpg`
+- LS-027 — Строительство нефтеперерабатывающего завода (НПЗ): `images/npz-lososinsk.jpg`
+- LS-028 — Обустройство автовокзала Лососинска: `images/avtovokzal-lososinsk.jpg`
+- LS-029 — Строительство портовой инфраструктуры на причальном перроне: `images/port-perron.jpg`
+- LS-030 — Строительство портовых посадочных рукавов: `images/port-posadochnye-rukava.jpg`
+- LS-031 — Обустройство пассажирского здания порта: `images/port-zdanie.jpg`
+- LS-032 — Формирование привокзальной площади пассажирского порта: `images/port-ploshchad-kiss-ride.jpg`
+- LS-033 — Создание парка ожидания у пассажирского порта: `images/port-park-ozhidaniya.jpg`
+- LS-034 — Строительство жилого микрорайона «Лесная»: `images/mikrorayon-lesnaya.jpg`
+- LS-035 — Прокладка дорожной сети микрорайона «Лесная»: `images/lesnaya-dorozhnaya-set.jpg`
+- LS-036 — Электрификация существующих железнодорожных путей: `images/elektrifikatsiya-zhd.jpg`
+- LS-037 — Размещение информационных знаков на Лососинской круговой дороге (ЛКД): `images/lkd-ukazateli.jpg`
+- LS-038 — Пограничная железнодорожная станция Лососинск — Тунава и терминал международного досмотра: `images/pogranstantsiya-tunava-rostov.jpg`
+- LS-039 — Строительство автомобильного КПП на границе с Республикой Редония: `images/kpp-redoniya.jpg`
+- LS-040 — Строительство городской обсерватории: `images/observatoriya-lososinsk.jpg`
+- LS-041 — Установление скоростных ограничений и дорожных знаков в городе: `images/skorostnye-ogranicheniya.jpg`
+- LS-042 — Строительство зернохранилища: `images/zernokhranilishche.jpg`
+- LS-043 — Строительство транспортной развязки от моста к промышленным объектам: `images/razvyazka-most-promzona.jpg`
+- LS-044 — Строительство завода обработки металлов: `images/zavod-obrabotki-metallov.jpg`
+- LS-045 — Строительство сталелитейного завода: `images/staleliteynyy-zavod.jpg`
+- LS-046 — Строительство секретного завода по производству вооружения: `images/sekretnyy-zavod-vooruzheniya.jpg`
+- LS-047 — Строительство форзитного завода: `images/forzitnyy-zavod.jpg`
+- LS-048 — Строительство военной части с казармами и учебной территорией: `images/voennaya-chast.jpg`
+- LS-049 — Строительство железнодорожной станции в селе Иглобрюхово: `images/stantsiya-iglobryukhovo.jpg`
+- LS-050 — Строительство судоремонтного завода: `images/sudoremontnyy-zavod.jpg`
+- LS-051 — Строительство здания грузового терминала: `images/gruzovoy-terminal.jpg`
+- LS-052 — Путевое развитие железнодорожного депо: `images/putevoye-razvitiye-zhd-depo.jpg`
+- LS-053 — Строительство здания железнодорожного депо: `images/zdaniye-zhd-depo.jpg`
+- LS-054 — Обустройство инфраструктуры для персонала ЖД депо: `images/infrastruktura-personala-zhd-depo.jpg`
+- LS-055 — Парковка и автобусная конечная у железнодорожного депо: `images/avtobusnaya-konechnaya-zhd-depo.jpg`
+- LS-056 — Строительство конечной станции монорельса у ЖД депо: `images/monorels-stantsiya-zhd-depo.jpg`
+- LS-057 — Строительство монорельсового депо у ЖД депо: `images/monorels-depo.jpg`
+- LS-058 — Обустройство инфраструктуры монорельсового депо: `images/infrastruktura-monorels-depo.jpg`
+- LS-059 — Разработка пахотных земель и создание сельскохозяйственных угодий: `images/pahotnye-zemli-selhozugodiya.jpg`
+- LS-060 — Строительство станции очистки сточных вод с отстойными резервуарами: `images/stantsiya-ochistki-stochnyh-vod.jpg`
+- LS-061 — Строительство международного почтово-сортировочного терминала: `images/mezhdunarodnyi-pochtovo-sortirovochnyi-terminal.jpg`
