@@ -255,11 +255,12 @@
       "updated": ""
     },
     "LS-037": {
-      "status": "open",
-      "assignee": "",
-      "progress": 0,
-      "note": "",
-      "updated": ""
+      "status": "active",
+      "assignee": "Pchelka_TV",
+      "progress": 5,
+      "note": "Количество уникальных нужных знаков: 11\nКоличество знаков по факту: 37",
+      "deadline": "2026-12-05",
+      "updated": "2026-11-23"
     },
     "LS-038": {
       "status": "open",
